@@ -1,0 +1,49 @@
+.btn-rounded {
+    border-radius: 1rem;
+}
+
+.carousel-img {
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.image-01 {
+    background-image: url("./assets/gambar-01.jpg");
+}
+
+.image-02 {
+    background-image: url("./assets/gambar-02.jpg");
+}
+
+.image-03 {
+    background-image: url("./assets/gambar-03.jpg");
+}
+
+.profile-img {
+    width: 15rem;
+    height: 15rem;
+
+    object-fit: cover;
+    border-radius: 100%;
+}
+
+.progress {
+    height: 0.75rem;
+    margin: -0.75rem;
+}
+
+.progress-bar {
+    border-radius: 1rem;
+}
+
+.w-90 {
+    width: 90%;
+}
+
+.navbar.bg-light {
+    transition: all;
+    transition-duration: 300ms;
+
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.05);
+}
